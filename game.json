@@ -600,6 +600,41 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/848f861767e7ce4581dba9e122ee7bafeaca57987655cebe1f78ab31d1300f0f_Square White Slider Thumb.png",
           "name": "Square White Slider Thumb.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Wood Background_all_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/9patch_Wood Background_all_64.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor Stairs.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor Stairs.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/25934c73cd9c63452b39190c8e956efc5ee97297dd6678db67a024b9a6f2de7e_Floor Stairs.png",
+          "name": "Floor Stairs.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Wood Background_all_66.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Wood Background_all_64.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Wood Background/cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+          "name": "9patch_Wood Background_all_64.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -703,6 +738,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/quiz"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/ash-gf-floor"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/untitled-scene"
     }
   ],
   "externalEvents": [],
