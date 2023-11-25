@@ -6,6 +6,7 @@
     "minor": 0,
     "revision": 0
   },
+  "a": "b",
   "properties": {
     "adaptGameResolutionAtRuntime": true,
     "antialiasingMode": "MSAA",
