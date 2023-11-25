@@ -1,5 +1,5 @@
 {
-  "firstLayout": "Computer",
+  "firstLayout": "",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -65,7 +65,7 @@
   "resources": {
     "resources": [
       {
-        "file": "assets/Building 3 Small2.glb",
+        "file": "assets/Building 3 Small.glb",
         "kind": "model3D",
         "metadata": "",
         "name": "Building 3 Small.glb",
@@ -77,7 +77,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Isometric Voxel Mossy Stone2.png",
+        "file": "assets/Isometric Voxel Mossy Stone.png",
         "kind": "image",
         "metadata": "",
         "name": "Isometric Voxel Mossy Stone.png",
@@ -202,7 +202,7 @@
         }
       },
       {
-        "file": "assets/Roboto-Regular2.ttf",
+        "file": "assets/Roboto-Regular.ttf",
         "kind": "font",
         "metadata": "",
         "name": "Roboto-Regular.ttf",
@@ -214,7 +214,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Red Button With Shadow_Hovered2.png",
+        "file": "assets/Red Button With Shadow_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Shadow_Hovered.png",
@@ -227,7 +227,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Red Button With Shadow_Idle2.png",
+        "file": "assets/Red Button With Shadow_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Shadow_Idle.png",
@@ -240,7 +240,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Red Button With Shadow_Pressed2.png",
+        "file": "assets/Red Button With Shadow_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Shadow_Pressed.png",
@@ -252,7 +252,7 @@
         }
       },
       {
-        "file": "assets/CantoraOne-Regular2.ttf",
+        "file": "assets/CantoraOne-Regular.ttf",
         "kind": "font",
         "metadata": "",
         "name": "CantoraOne-Regular.ttf",
@@ -275,7 +275,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Decorated Button_Hovered2.png",
+        "file": "assets/Black Decorated Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Black Decorated Button_Hovered.png",
@@ -288,7 +288,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Decorated Button_Idle2.png",
+        "file": "assets/Black Decorated Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Black Decorated Button_Idle.png",
@@ -301,7 +301,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Decorated Button_Pressed2.png",
+        "file": "assets/Black Decorated Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Black Decorated Button_Pressed.png",
@@ -313,7 +313,7 @@
         }
       },
       {
-        "file": "assets/ArchitectsDaughter2.ttf",
+        "file": "assets/ArchitectsDaughter.ttf",
         "kind": "font",
         "metadata": "",
         "name": "ArchitectsDaughter.ttf",
@@ -351,7 +351,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/White Square Decorated Button_Hovered2.png",
+        "file": "assets/White Square Decorated Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "White Square Decorated Button_Hovered.png",
@@ -364,7 +364,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/White Square Decorated Button_Idle2.png",
+        "file": "assets/White Square Decorated Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "White Square Decorated Button_Idle.png",
@@ -377,7 +377,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/White Square Decorated Button_Pressed2.png",
+        "file": "assets/White Square Decorated Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "White Square Decorated Button_Pressed.png",
@@ -389,7 +389,7 @@
         }
       },
       {
-        "file": "assets/mononoki-Regular2.ttf",
+        "file": "assets/mononoki-Regular.ttf",
         "kind": "font",
         "metadata": "",
         "name": "mononoki-Regular.ttf",
@@ -441,7 +441,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Square Decorated Button_Hovered2.png",
+        "file": "assets/Black Square Decorated Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Black Square Decorated Button_Hovered.png",
@@ -454,7 +454,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Square Decorated Button_Idle2.png",
+        "file": "assets/Black Square Decorated Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Black Square Decorated Button_Idle.png",
@@ -467,7 +467,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Square Decorated Button_Pressed2.png",
+        "file": "assets/Black Square Decorated Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Black Square Decorated Button_Pressed.png",
@@ -476,90 +476,6 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c772df82fc56543546eea5576b02f73253eaf5683120a331581f0b85664f62af_Black Square Decorated Button_Pressed.png",
           "name": "Black Square Decorated Button_Pressed.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "v602-nunoon-05-rippednotes.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "v602-nunoon-05-rippednotes.jpg",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "file": "assets/Roboto-Regular3.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/NewTegomin-Regular.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "44b20c5be998f2190b2ac28fd71a838b278069de9cdcfc130fa6ac219a841ca6_NewTegomin-Regular.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/44b20c5be998f2190b2ac28fd71a838b278069de9cdcfc130fa6ac219a841ca6_NewTegomin-Regular.ttf",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/MPLUS1p-Black.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "45bf060c897266594bc78a4b12350be50bbc315510afc75ff4336b62228e68dc_MPLUS1p-Black.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Google Fonts/Japanese/45bf060c897266594bc78a4b12350be50bbc315510afc75ff4336b62228e68dc_MPLUS1p-Black.ttf",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/Hidden Truth.aac",
-        "kind": "audio",
-        "metadata": "",
-        "name": "eaaf2193c7718e7b6d153b6f614c763f14e3c4b4f541416b8c7793be15d76d4f_Hidden Truth.aac",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Horror/eaaf2193c7718e7b6d153b6f614c763f14e3c4b4f541416b8c7793be15d76d4f_Hidden Truth.aac",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/Glass Breaking 2.aac",
-        "kind": "audio",
-        "metadata": "",
-        "name": "68925675fcabb94f8a61147afe954c687928fc116429ddff9e539e39540f9b8e_Glass Breaking 2.aac",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/68925675fcabb94f8a61147afe954c687928fc116429ddff9e539e39540f9b8e_Glass Breaking 2.aac",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/1up 9.aac",
-        "kind": "audio",
-        "metadata": "",
-        "name": "cf3d278e28f6f631da5883429db0f100b27b1e2ef94ad12cfedafbb1c5b61136_1up 9.aac",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/1up/cf3d278e28f6f631da5883429db0f100b27b1e2ef94ad12cfedafbb1c5b61136_1up 9.aac",
-          "name": "gdevelop-asset-store"
         }
       }
     ],
@@ -591,10 +507,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/video1-poem1"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/quiz"
     }
   ],
   "externalEvents": [],
